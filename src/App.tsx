@@ -21,8 +21,8 @@ function App() {
         {/* Hero Section */}
         <section className="min-h-screen flex flex-col justify-center">
           <p className="text-[#64ffda] mb-4">Hi, my name is</p>
-          <h1 className="text-6xl font-bold text-gray-200 mb-4">Nuran Ferhan.</h1>
-          <h2 className="text-5xl font-bold text-gray-400 mb-6">I build things for the web.</h2>
+          <h1 className="text-6xl font-bold text-gray-200 mb-4">Ali ZadeMohammad.</h1>
+          <h2 className="text-5xl font-bold text-gray-400 mb-6">Interested in data science and modeling.</h2>
           <p className="max-w-xl text-gray-400 mb-8">
             I'm a software engineer specializing in building exceptional digital experiences.
             Currently, I'm focused on building accessible, human-centered products.
