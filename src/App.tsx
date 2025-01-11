@@ -37,7 +37,7 @@ function App() {
       <section id="home" className="min-h-screen flex items-center pt-20">
         <div className="container mx-auto px-6">
           <p className="text-[#64ffda] font-mono mb-4">Hi, It's Ali</p>
-          <h1 className="text-5xl font-bold text-[#ccd6f6] mb-6">I'm a</h1>
+          <h1 className="text-5xl font-bold text-[#ccd6f6] mb-6">I'm a Ali ZadeMoohammad</h1>
           <p className="text-xl text-[#8892b0] max-w-2xl mb-8">
             computer engineering student. I have knowledge of Python, Matlab,Aspen Hysys,Aspen Plus. 
             I am determined, hardworking and competent in terms of equipment. I have knowledge 
@@ -57,8 +57,8 @@ function App() {
               <School className="text-[#64ffda] w-8 h-8 flex-shrink-0" />
               <div>
                 <h3 className="text-xl font-semibold text-[#ccd6f6]">Computer Engineering</h3>
-                <p className="text-[#8892b0]">Marmara University, License</p>
-                <p className="text-[#64ffda]">2022 - Present</p>
+                <p className="text-[#8892b0]">Ferdowsi University of masshad, License</p>
+                <p className="text-[#64ffda]">2020 - 2024</p>
               </div>
             </div>
             <div className="flex gap-6">
